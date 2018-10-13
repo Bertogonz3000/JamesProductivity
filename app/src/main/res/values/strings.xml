@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JamesProductivity</string>
+    <string name="Greeting">Hello World!</string>
+    <string name="Exit">Goodbye World!</string>
+</resources>
